@@ -147,11 +147,11 @@ export default function LandingPage() {
             },
             {
               id: 2,
-              title: "KYRO Creates Your Website",              description: "Tell us about your business and what you want. We use AI to create a layout, then customize it perfectly for your needs.",              imageSrc: "http://img.b2bpic.net/free-vector/medical-simple-element_24908-54290.jpg?_wi=2",              imageAlt: "Design step"
+              title: "KYRO Creates Your Website",              description: "Tell us about your business and what you want. We use AI to create a layout, then customize it perfectly for your needs.",              imageSrc: "http://img.b2bpic.net/premium-vector/fancy-halftone-collage-concept-knowledge-inspiration-take-notes-create-new-idea_715072-1364.jpg?id=375783000",              imageAlt: "Design step"
             },
             {
               id: 3,
-              title: "Pay for Full Ownership",              description: "After we build your website, you own it completely with just a one-time $50 fee. No recurring costs.",              imageSrc: "http://img.b2bpic.net/free-vector/crowdfunding-icons-set_98292-1915.jpg?_wi=2",              imageAlt: "Payment step"
+              title: "Pay for Full Ownership",              description: "After we build your website, you own it completely with just a one-time $50 fee. No recurring costs.",              imageSrc: "http://img.b2bpic.net/free-photo/business-man-counting-dollar-banknote-online-business-concept_1150-6406.jpg?id=3805663",              imageAlt: "Payment step"
             }
           ]}
         />
