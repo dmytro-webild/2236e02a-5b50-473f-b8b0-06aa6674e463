@@ -112,15 +112,15 @@ export default function LandingPage() {
           features={[
             {
               id: 1,
-              title: "Innovation",              description: "We use modern technology and creative ideas to build websites that stand out and stay ahead of the curve.",              imageSrc: "http://img.b2bpic.net/free-vector/vintage-energy-efficient-lightbulbs-labels-set-with-inscriptions-different-light-bulbs_1284-39870.jpg",              imageAlt: "Innovation icon"
+              title: "Innovation",              description: "We use modern technology and creative ideas to build websites that stand out and stay ahead of the curve.",              imageSrc: "http://img.b2bpic.net/free-vector/vintage-energy-efficient-lightbulbs-labels-set-with-inscriptions-different-light-bulbs_1284-39870.jpg?_wi=1",              imageAlt: "Innovation icon"
             },
             {
               id: 2,
-              title: "Quality",              description: "Every website we build is carefully designed, tested, and optimized to deliver the best performance.",              imageSrc: "http://img.b2bpic.net/free-vector/medical-simple-element_24908-54290.jpg",              imageAlt: "Quality badge icon"
+              title: "Quality",              description: "Every website we build is carefully designed, tested, and optimized to deliver the best performance.",              imageSrc: "http://img.b2bpic.net/free-vector/medical-simple-element_24908-54290.jpg?_wi=1",              imageAlt: "Quality badge icon"
             },
             {
               id: 3,
-              title: "Growth",              description: "We focus on building websites that help businesses grow, reach more people, and succeed online.",              imageSrc: "http://img.b2bpic.net/free-vector/crowdfunding-icons-set_98292-1915.jpg",              imageAlt: "Growth chart icon"
+              title: "Growth",              description: "We focus on building websites that help businesses grow, reach more people, and succeed online.",              imageSrc: "http://img.b2bpic.net/free-vector/crowdfunding-icons-set_98292-1915.jpg?_wi=1",              imageAlt: "Growth chart icon"
             },
             {
               id: 4,
@@ -143,15 +143,15 @@ export default function LandingPage() {
           features={[
             {
               id: 1,
-              title: "Contact KYRO",              description: "Reach out through our contact form or call us directly. We're ready to discuss your vision and goals.",              imageSrc: "http://img.b2bpic.net/free-vector/vintage-energy-efficient-lightbulbs-labels-set-with-inscriptions-different-light-bulbs_1284-39870.jpg",              imageAlt: "Contact step"
+              title: "Contact KYRO",              description: "Reach out through our contact form or call us directly. We're ready to discuss your vision and goals.",              imageSrc: "http://img.b2bpic.net/free-vector/vintage-energy-efficient-lightbulbs-labels-set-with-inscriptions-different-light-bulbs_1284-39870.jpg?_wi=2",              imageAlt: "Contact step"
             },
             {
               id: 2,
-              title: "KYRO Creates Your Website",              description: "Tell us about your business and what you want. We use AI to create a layout, then customize it perfectly for your needs.",              imageSrc: "http://img.b2bpic.net/free-vector/medical-simple-element_24908-54290.jpg",              imageAlt: "Design step"
+              title: "KYRO Creates Your Website",              description: "Tell us about your business and what you want. We use AI to create a layout, then customize it perfectly for your needs.",              imageSrc: "http://img.b2bpic.net/free-vector/medical-simple-element_24908-54290.jpg?_wi=2",              imageAlt: "Design step"
             },
             {
               id: 3,
-              title: "Pay for Full Ownership",              description: "After we build your website, you own it completely with just a one-time $50 fee. No recurring costs.",              imageSrc: "http://img.b2bpic.net/free-vector/crowdfunding-icons-set_98292-1915.jpg",              imageAlt: "Payment step"
+              title: "Pay for Full Ownership",              description: "After we build your website, you own it completely with just a one-time $50 fee. No recurring costs.",              imageSrc: "http://img.b2bpic.net/free-vector/crowdfunding-icons-set_98292-1915.jpg?_wi=2",              imageAlt: "Payment step"
             }
           ]}
         />
@@ -272,7 +272,7 @@ export default function LandingPage() {
             required: true
           }}
           useInvertedBackground={false}
-          imageSrc="http://img.b2bpic.net/free-photo/medium-shot-people-discussing-traveling_23-2149080795.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/medium-shot-people-discussing-traveling_23-2149080795.jpg?_wi=1"
           imageAlt="Creative workspace"
           mediaAnimation="slide-up"
           mediaPosition="right"
@@ -282,7 +282,7 @@ export default function LandingPage() {
 
       <div id="footer" data-section="footer">
         <FooterMedia
-          imageSrc="http://img.b2bpic.net/free-photo/medium-shot-people-discussing-traveling_23-2149080795.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/medium-shot-people-discussing-traveling_23-2149080795.jpg?_wi=2"
           imageAlt="KYRO footer background"
           logoText="KYRO"
           copyrightText="© 2026 KYRO. All Rights Reserved."
