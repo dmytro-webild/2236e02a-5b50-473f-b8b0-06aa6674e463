@@ -53,7 +53,7 @@ export default function LandingPage() {
           buttonAnimation="slide-up"
           dashboard={{
             title: "Website Performance Metrics",            logoIcon: Globe,
-            imageSrc: "http://img.b2bpic.net/free-vector/professional-dashboard-user-panel_23-2148358961.jpg",            searchPlaceholder: "Search projects...",            sidebarItems: [
+            imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3ASk1HgV6I3QTlCXdqxSfWAD8yS/uploaded-1772927752874-u5abfqal.png",            searchPlaceholder: "Search projects...",            sidebarItems: [
               { icon: Home, active: true },
               { icon: Code, active: false },
               { icon: Settings, active: false }
@@ -143,7 +143,7 @@ export default function LandingPage() {
           features={[
             {
               id: 1,
-              title: "Contact KYRO",              description: "Reach out through our contact form or call us directly. We're ready to discuss your vision and goals.",              imageSrc: "http://img.b2bpic.net/free-photo/explaining-project-points_1098-15436.jpg?id=5401863",              imageAlt: "Contact step"
+              title: "Contact KYRO",              description: "Reach out through our contact form, We're ready to discuss your vision and goals. ",              imageSrc: "http://img.b2bpic.net/free-photo/explaining-project-points_1098-15436.jpg?id=5401863",              imageAlt: "Contact step"
             },
             {
               id: 2,
@@ -282,7 +282,7 @@ export default function LandingPage() {
 
       <div id="footer" data-section="footer">
         <FooterMedia
-          imageSrc="http://img.b2bpic.net/free-photo/medium-shot-people-discussing-traveling_23-2149080795.jpg?_wi=2"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3ASk1HgV6I3QTlCXdqxSfWAD8yS/uploaded-1772927738202-vk654w7o.png"
           imageAlt="KYRO footer background"
           logoText="KYRO"
           copyrightText="© 2026 KYRO. All Rights Reserved."
