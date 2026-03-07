@@ -116,7 +116,7 @@ export default function LandingPage() {
             },
             {
               id: 2,
-              title: "Quality",              description: "Every website we build is carefully designed, tested, and optimized to deliver the best performance.",              imageSrc: "http://img.b2bpic.net/free-vector/medical-simple-element_24908-54290.jpg?_wi=1",              imageAlt: "Quality badge icon"
+              title: "Quality",              description: "Every website we build is carefully designed, tested, and optimized to deliver the best performance.",              imageSrc: "http://img.b2bpic.net/free-photo/close-up-executives-showing-thumbs-up_1098-1828.jpg?id=860924",              imageAlt: "Quality badge icon"
             },
             {
               id: 3,
@@ -124,7 +124,7 @@ export default function LandingPage() {
             },
             {
               id: 4,
-              title: "Simplicity",              description: "We believe great websites should be clean, easy to use, and simple for businesses and customers.",              imageSrc: "http://img.b2bpic.net/free-vector/work-day-card-template-design_742173-29998.jpg",              imageAlt: "Simplicity icon"
+              title: "Simplicity",              description: "We believe great websites should be clean, easy to use, and simple for businesses and customers.",              imageSrc: "http://img.b2bpic.net/premium-photo/businessman-working-labtop-with-check-mark-symbol-golden-five-stars-standard-quality-control-concept-international-iso-service-standards-quality-assurance-is-certified_144352-932.jpg?id=94627694",              imageAlt: "Simplicity icon"
             }
           ]}
         />
@@ -143,7 +143,7 @@ export default function LandingPage() {
           features={[
             {
               id: 1,
-              title: "Contact KYRO",              description: "Reach out through our contact form or call us directly. We're ready to discuss your vision and goals.",              imageSrc: "http://img.b2bpic.net/free-vector/vintage-energy-efficient-lightbulbs-labels-set-with-inscriptions-different-light-bulbs_1284-39870.jpg?_wi=2",              imageAlt: "Contact step"
+              title: "Contact KYRO",              description: "Reach out through our contact form or call us directly. We're ready to discuss your vision and goals.",              imageSrc: "http://img.b2bpic.net/free-photo/explaining-project-points_1098-15436.jpg?id=5401863",              imageAlt: "Contact step"
             },
             {
               id: 2,
