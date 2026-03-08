@@ -170,19 +170,19 @@ export default function LandingPage() {
           plans={[
             {
               id: "starter",              badge: "Perfect for Startups",              badgeIcon: Sparkles,
-              price: "$60",              subtitle: "One-time ownership fee",              features: [
+              price: "$65",              subtitle: "One-time ownership fee",              features: [
                 "Professional website design",                "Domain included ",                "Fast performance optimization",                "AI-assisted layout",                "Full ownership and control"
               ]
             },
             {
               id: "business",              badge: "Most Popular",              badgeIcon: Quote,
-              price: "$60",              subtitle: "Includes all features",              features: [
+              price: "$65",              subtitle: "Includes all features",              features: [
                 "Everything in Starter",                "Custom branding integration",                "Mobile Intergration ",                "Contact form setup",                "Analytics integration",                "30-day support included"
               ]
             },
             {
               id: "enterprise",              badge: "For Growing Businesses",              badgeIcon: Zap,
-              price: "$60",              subtitle: "Premium ownership",              features: [
+              price: "$65",              subtitle: "Premium ownership",              features: [
                 "Everything in Business",                "Advanced customization",                "E-commerce integration",                "Multi-page optimization",                "3-month support included",                "Priority revisions"
               ]
             }
